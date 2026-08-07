@@ -1,0 +1,22 @@
+1  ls -l
+    2  pwd
+    3  mkdir raj.txt
+    4  ls -l
+    5  git status
+    6  git status
+    7  ls -al
+    8  ls -l
+    9  touch raj.txt
+   10  ls -l
+   11  git status
+   12  git add raj.txt 
+   13  git status
+   14  git commit -m "added raj"
+   15  git config --global user.email "rajtirlotkar5@gmail.com"
+   16  git status
+   17  git commit -m "added raj"
+   18  git config --global user.name "RajTirlotkar"
+   19  git remote -v
+   20  hitory
+   21  history
+   git remote add origin https://github.com/RajTirlotkar/github-for-devops.git
